@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails andculture_cc_back: development" uuid="45ee7bb5-df82-404b-a445-e1e882405a94">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/andculture_cc_back_development</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails andculture_cc_back: test" uuid="33a24049-bf27-4d6c-bb32-e67c8c905ee6">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/andculture_cc_back_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails andculture_cc_back: production" uuid="67f3fd90-b65c-4137-94dc-f299cdcf2251">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/andculture_cc_back_production</jdbc-url>
+    </data-source>
+  </component>
+</project>

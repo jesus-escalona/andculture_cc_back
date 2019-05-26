@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails andculture_cc_back: development" uuid="45ee7bb5-df82-404b-a445-e1e882405a94">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+    </data-source>
+    <data-source name="Rails andculture_cc_back: test" uuid="33a24049-bf27-4d6c-bb32-e67c8c905ee6">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+    </data-source>
+    <data-source name="Rails andculture_cc_back: production" uuid="67f3fd90-b65c-4137-94dc-f299cdcf2251">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>andculture_cc_back</user-name>
+    </data-source>
+  </component>
+</project>
